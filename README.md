@@ -1,4 +1,4 @@
-# Fuego de melancolía
+# Fuego de melancolía, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Fuego de melancolía |
+| **Title** | Fuego de melancolía, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-melancolia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Fuego de melancolía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-melancolia/) |
+| **Get License** | [Music Rights & Licensing for Fuego de melancolía, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-melancolia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime qué nos pasa, la noche no perdona
+> Buscando tu calor, mi mente ya no razona
+> Ese perfume tuyo me tiene enloqueciendo
+> Báilame cerquita, que el mundo se está perdiendo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `44d0f7d6e89f24fcd88f4d8a7f4bdd43b011ceea80817f65d906598f60e39d86` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
